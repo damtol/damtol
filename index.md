@@ -2,7 +2,7 @@
 
 ![damtol cup holder](https://avatars0.githubusercontent.com/u/26134705?v=3&s=200)
 
-![damtol map](http://map2.daum.net/map/mapservice?MX=504767&MY=1101639&SCALE=1.25&IW=565&IH=308&COORDSTM=WCONGNAMUL)
+![damtol map](http://dmaps.kr/3uqub)
 
 You can use the [editor on GitHub](https://github.com/damtol/damtol/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
