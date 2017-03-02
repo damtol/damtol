@@ -2,7 +2,7 @@
 
 ![damtol cup holder](https://avatars0.githubusercontent.com/u/26134705?v=3&s=200)
 
-![damtol map](http://dmaps.kr/3uqub)
+<a href="http://map.daum.net/?urlX=504856&urlY=1101635&urlLevel=1&map_type=TYPE_MAP&map_hybrid=false&SHOWMARK=true" target="_blank"><span style="background:#000;position:absolute;width:557px;opacity:.7;filter:alpha(opacity=70);color:#fff;overflow:hidden;font:12px/1.5 Dotum, '돋움', sans-serif;text-decoration:none;padding:7px 0px 0px 10px; height: 24px;">지도를 클릭하시면 위치정보를 확인하실 수 있습니다.</span><img width="565" height="308" src="http://map2.daum.net/map/mapservice?MX=504856&MY=1101635&SCALE=1.25&IW=565&IH=308&COORDSTM=WCONGNAMUL" style="border:1px solid #ccc"></a>
 
 You can use the [editor on GitHub](https://github.com/damtol/damtol/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
